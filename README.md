@@ -8,4 +8,3 @@ install link: https://mega.nz/#F!SRFnUYyJ!yDDY4TbMZ57ib3M7MWj45w
 
 
 UPDATE : Added only-doors, only-grunges, only-ornaments, only-signs and only-rust.isolated (100 more textures then before)
-*In Update v3 i will make it to 1.500 textures. Enjoy!*
